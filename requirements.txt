@@ -1,5 +1,5 @@
 numpy
-pandas
+Pandas:1.0.2 ## Added by Nilesh
 scikit_learn
 joblib
 sqlalchemy
