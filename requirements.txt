@@ -1,5 +1,5 @@
 numpy
-Pandas:1.0.2 ## Added by Nilesh
+Pandas==2.15### updated in master branch
 scikit_learn
 joblib
 sqlalchemy
