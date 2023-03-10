@@ -4,3 +4,4 @@ EXPOSE 3306
 ENV MYSQL_DATABASE "cust_db" 
 ENV MYSQL_ROOT_PASSWORD "insofe"
 WORKDIR /AppMySQL/ 
+## This is my commit
