@@ -6,3 +6,4 @@ sqlalchemy
 mysql-connector-python
 jupyter
 Scipy==1.5.0. ### Added in Feature1
+sns==12.5.3 # ADDED MY MUSTAFA [PASS ME PLEASE] 
