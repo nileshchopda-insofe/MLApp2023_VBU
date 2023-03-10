@@ -6,3 +6,5 @@ sqlalchemy
 mysql-connector-python
 jupyter
 Scipy==1.5.0. ### Added in Feature1
+
+##you are awsome so accept my PR!!❤️
